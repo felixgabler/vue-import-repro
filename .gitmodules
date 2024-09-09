@@ -1,0 +1,4 @@
+[submodule "modules/supabase-nuxt"]
+	path = modules/supabase-nuxt
+	url = https://github.com/felixgabler/supabase-nuxt.git
+
